@@ -1,7 +1,7 @@
 # Jobseeker App - UTS
 Membuat aplikasi yang memperkenalkan Mohammad Yamin.
 ### Screenshot
-<img src="ss.PNG?raw=true" height=400px/>
+<img src="ss.png?raw=true" height=400px/>
 
 ### Built With
 - Dart
