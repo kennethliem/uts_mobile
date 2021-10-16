@@ -3,6 +3,9 @@ Aplikasi ini diharapkan dapat membantu dan menjadi perantara diantara Perusaan y
 ### Screenshot
 <img src="ss.png?raw=true" height=400px/>
 
+### Jurnal
+https://docs.google.com/document/d/12-SKaLMLgFRVsLmeuXC1RX3g79iBJSU22DNAs73tbz0/edit?usp=sharing
+
 ### Built With
 - Dart
 - Flutter
